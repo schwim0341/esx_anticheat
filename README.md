@@ -6,6 +6,7 @@ There is no support topic for this release on the FiveM forums.  If you need ass
 This resource spawns from a lot of previous works but primarily, the following two resources were vital in creating this and they should be thanked for their hard work:
 
 **HG_AntiCheat:** https://forum.fivem.net/t/anticheat-for-fivem-stayfrosty-community/248835
+
 **FiveM-BanSql:** https://forum.fivem.net/t/release-fivem-bansql/142487
 
 This resource requires the ESX framework and mysql-async.  
