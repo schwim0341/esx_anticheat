@@ -9,7 +9,7 @@ This resource spawns from a lot of previous works but primarily, the following t
 
 **FiveM-BanSql:** https://forum.fivem.net/t/release-fivem-bansql/142487
 
-This resource requires the ESX framework and mysql-async.  
+This resource requires the ESX framework and it's dependencies.
 
 **Install:** Drop folder into your resources directory, add "start esx_anticheat" to your server.cfg, add the sql file to your database and start your server.
 
